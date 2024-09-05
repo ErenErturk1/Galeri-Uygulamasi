@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D85A261-31D7-4886-B3F5-8DE575AD621D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GaleriOtomasyonu</RootNamespace>
+    <AssemblyName>GaleriOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalisanMenuEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanMenuEkrani.Designer.cs">
+      <DependentUpon>CalisanMenuEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GaleriOtomasyonuDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GaleriOtomasyonuDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KiralananKisiEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralananKisiEkle.Designer.cs">
+      <DependentUpon>KiralananKisiEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaglantiAdresi.cs" />
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IkinciElAracAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IkinciElAracAra.Designer.cs">
+      <DependentUpon>IkinciElAracAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IkinciElAracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IkinciElAracEkle.Designer.cs">
+      <DependentUpon>IkinciElAracEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IkinciElAracGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IkinciElAracGuncelle.Designer.cs">
+      <DependentUpon>IkinciElAracGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IkinciElAracListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IkinciElAracListele.Designer.cs">
+      <DependentUpon>IkinciElAracListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IkinciElAracSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IkinciElAracSil.Designer.cs">
+      <DependentUpon>IkinciElAracSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IkinciElIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IkinciElIslemleri.Designer.cs">
+      <DependentUpon>IkinciElIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KayitEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KayitEkrani.Designer.cs">
+      <DependentUpon>KayitEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralananKisiAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralananKisiAra.Designer.cs">
+      <DependentUpon>KiralananKisiAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralananKisiGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralananKisiGuncelle.Designer.cs">
+      <DependentUpon>KiralananKisiGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralananKisiListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralananKisiListele.Designer.cs">
+      <DependentUpon>KiralananKisiListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralananKisiSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralananKisiSil.Designer.cs">
+      <DependentUpon>KiralananKisiSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralikAracAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralikAracAra.Designer.cs">
+      <DependentUpon>KiralikAracAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralikAracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralikAracEkle.Designer.cs">
+      <DependentUpon>KiralikAracEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralikAracGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralikAracGuncelle.Designer.cs">
+      <DependentUpon>KiralikAracGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralikAracHizmetleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralikAracHizmetleri.Designer.cs">
+      <DependentUpon>KiralikAracHizmetleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralikAracListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralikAracListele.Designer.cs">
+      <DependentUpon>KiralikAracListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralikAracSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralikAracSil.Designer.cs">
+      <DependentUpon>KiralikAracSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SifirAracAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifirAracAra.Designer.cs">
+      <DependentUpon>SifirAracAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SifirAracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifirAracEkle.Designer.cs">
+      <DependentUpon>SifirAracEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SifirAracGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifirAracGuncelle.Designer.cs">
+      <DependentUpon>SifirAracGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SifirAracIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifirAracIslemleri.Designer.cs">
+      <DependentUpon>SifirAracIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SifirAracListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifirAracListele.Designer.cs">
+      <DependentUpon>SifirAracListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SifirAracSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifirAracSil.Designer.cs">
+      <DependentUpon>SifirAracSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiMenuEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiMenuEkrani.Designer.cs">
+      <DependentUpon>YoneticiMenuEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimCalisanAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimCalisanAra.Designer.cs">
+      <DependentUpon>YonetimCalisanAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimCalisanEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimCalisanEkle.Designer.cs">
+      <DependentUpon>YonetimCalisanEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimCalisanGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimCalisanGuncelle.Designer.cs">
+      <DependentUpon>YonetimCalisanGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimCalisanListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimCalisanListele.Designer.cs">
+      <DependentUpon>YonetimCalisanListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimCalisanSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimCalisanSil.Designer.cs">
+      <DependentUpon>YonetimCalisanSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimEkrani.Designer.cs">
+      <DependentUpon>YonetimEkrani.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CalisanMenuEkrani.resx">
+      <DependentUpon>CalisanMenuEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralananKisiEkle.resx">
+      <DependentUpon>KiralananKisiEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IkinciElAracAra.resx">
+      <DependentUpon>IkinciElAracAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IkinciElAracEkle.resx">
+      <DependentUpon>IkinciElAracEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IkinciElAracGuncelle.resx">
+      <DependentUpon>IkinciElAracGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IkinciElAracListele.resx">
+      <DependentUpon>IkinciElAracListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IkinciElAracSil.resx">
+      <DependentUpon>IkinciElAracSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IkinciElIslemleri.resx">
+      <DependentUpon>IkinciElIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KayitEkrani.resx">
+      <DependentUpon>KayitEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralananKisiAra.resx">
+      <DependentUpon>KiralananKisiAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralananKisiGuncelle.resx">
+      <DependentUpon>KiralananKisiGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralananKisiListele.resx">
+      <DependentUpon>KiralananKisiListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralananKisiSil.resx">
+      <DependentUpon>KiralananKisiSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralikAracAra.resx">
+      <DependentUpon>KiralikAracAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralikAracEkle.resx">
+      <DependentUpon>KiralikAracEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralikAracGuncelle.resx">
+      <DependentUpon>KiralikAracGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralikAracHizmetleri.resx">
+      <DependentUpon>KiralikAracHizmetleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralikAracListele.resx">
+      <DependentUpon>KiralikAracListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralikAracSil.resx">
+      <DependentUpon>KiralikAracSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SifirAracAra.resx">
+      <DependentUpon>SifirAracAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SifirAracEkle.resx">
+      <DependentUpon>SifirAracEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SifirAracGuncelle.resx">
+      <DependentUpon>SifirAracGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SifirAracIslemleri.resx">
+      <DependentUpon>SifirAracIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SifirAracListele.resx">
+      <DependentUpon>SifirAracListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SifirAracSil.resx">
+      <DependentUpon>SifirAracSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiMenuEkrani.resx">
+      <DependentUpon>YoneticiMenuEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimCalisanAra.resx">
+      <DependentUpon>YonetimCalisanAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimCalisanEkle.resx">
+      <DependentUpon>YonetimCalisanEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimCalisanGuncelle.resx">
+      <DependentUpon>YonetimCalisanGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimCalisanListele.resx">
+      <DependentUpon>YonetimCalisanListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimCalisanSil.resx">
+      <DependentUpon>YonetimCalisanSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimEkrani.resx">
+      <DependentUpon>YonetimEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="GaleriOtomasyonuDataSet.xsc">
+      <DependentUpon>GaleriOtomasyonuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GaleriOtomasyonuDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GaleriOtomasyonuDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GaleriOtomasyonuDataSet.xss">
+      <DependentUpon>GaleriOtomasyonuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Gorseller\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

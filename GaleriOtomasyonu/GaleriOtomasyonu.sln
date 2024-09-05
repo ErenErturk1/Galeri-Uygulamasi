@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaleriOtomasyonu", "GaleriOtomasyonu\GaleriOtomasyonu.csproj", "{1D85A261-31D7-4886-B3F5-8DE575AD621D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Galeri Uygulaması", "Galeri Uygulaması\Galeri Uygulaması.vdproj", "{1E4F2596-3FFC-44F2-AD98-12E788AA7D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D85A261-31D7-4886-B3F5-8DE575AD621D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D85A261-31D7-4886-B3F5-8DE575AD621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D85A261-31D7-4886-B3F5-8DE575AD621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D85A261-31D7-4886-B3F5-8DE575AD621D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4F2596-3FFC-44F2-AD98-12E788AA7D07}.Debug|Any CPU.ActiveCfg = Debug
+		{1E4F2596-3FFC-44F2-AD98-12E788AA7D07}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D614295-4D0A-4C47-9FFF-EEB79D061C54}
+	EndGlobalSection
+EndGlobal

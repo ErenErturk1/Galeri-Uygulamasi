@@ -1,0 +1,84 @@
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\bin\Debug\GaleriOtomasyonu.exe.config
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\bin\Debug\GaleriOtomasyonu.exe
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\bin\Debug\GaleriOtomasyonu.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.Giris.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.exe
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KayitEkrani.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracIslemleri.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElIslemleri.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracHizmetleri.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YoneticiMenuEkrani.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimEkrani.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.CalisanMenuEkrani.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\bin\Debug\GaleriOtomasyonu.exe.config
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\bin\Debug\GaleriOtomasyonu.exe
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\bin\Debug\GaleriOtomasyonu.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.CalisanMenuEkrani.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.Giris.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElAracSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.IkinciElIslemleri.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KayitEkrani.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralananKisiSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracHizmetleri.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.KiralikAracSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracIslemleri.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.SifirAracSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YoneticiMenuEkrani.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanAra.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanEkle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanGuncelle.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanListele.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimCalisanSil.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.YonetimEkrani.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.exe
+C:\Users\User\Documents\Visual Studio 2022\Projects\Galeri Otomasyonu\GaleriOtomasyonu\GaleriOtomasyonu\obj\Debug\GaleriOtomasyonu.pdb
